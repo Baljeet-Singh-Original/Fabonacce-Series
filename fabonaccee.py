@@ -1,4 +1,4 @@
-inp = int(input("Enter number of turns You want for fabonacce >>>> "))
+inp = int(input("Enter number of turns You want for fibonacce >>>> "))
 print(0)
 m=0
 p=1
